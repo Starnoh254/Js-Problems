@@ -18,4 +18,4 @@ function compareValues(num1 , num2){
 }
 
 
-console.log(findTheLargestNumber([77772000,412,66,88888,75,67686,66]))
+console.log(findTheLargestNumber([2000,412,66,88888,75,67686,66]))
