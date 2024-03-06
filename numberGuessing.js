@@ -1,6 +1,6 @@
 const MAX = 100;
 const MIN = 50;
-let attempts = 0;
+let attempts = 1;
 
 function checkNumber(guessedNumber, actualNumber) {
   if (guessedNumber > actualNumber)
